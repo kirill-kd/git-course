@@ -2,3 +2,9 @@ first word of future
 second row
 3rd row created on github
 and this line createde also by using web UI
+
+local_SID =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL= TCP)(Host= hostname.network)(Port= 1521))
+    (CONNECT_DATA = (SID = remote_SID))
+  )

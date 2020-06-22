@@ -4,6 +4,7 @@ second row
 and this line createde also by using web UI
 
 
+
 Dive into the Pro Git book
 and learn at your own pace.
 
@@ -15,8 +16,7 @@ are available on Amazon.com.
 
 
 
-<<<<<<< HEAD
-=======
+
 The entire Pro Git book written by Scott Chacon 
 and Ben Straub is available to read online for free.
 Dead tree versions are available on
@@ -25,4 +25,4 @@ Dead tree versions are available on
 Git comes with built-in GUI tools for committing (git-gui) 
 and browsing (gitk), but there are several third-party
 tools for users looking for platform-specific experience.
->>>>>>> feature
+

@@ -12,3 +12,8 @@ are available for the Windows platform.
 The entire Pro Git book written by Scott Chacon 
 and Ben Straub is available to read online for free.
 Dead tree versions are available on
+
+
+Git comes with built-in GUI tools for committing (git-gui) 
+and browsing (gitk), but there are several third-party
+tools for users looking for platform-specific experience.

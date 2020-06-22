@@ -4,4 +4,14 @@ second row
 and this line createde also by using web UI
 
 
+Dive into the Pro Git book
+and learn at your own pace.
+
+
+The entire Pro Git book written by
+Scott Chacon and Ben Straub is available
+to read online for free. Dead tree versions
+are available on Amazon.com.
+
+
 

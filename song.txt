@@ -5,10 +5,3 @@ and this line createde also by using web UI
 
 
 
-Several free and commercial GUI tools
-are available for the Windows platform.
-
-
-The entire Pro Git book written by Scott Chacon 
-and Ben Straub is available to read online for free.
-Dead tree versions are available on
